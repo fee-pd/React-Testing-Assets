@@ -4,10 +4,10 @@ This repository, designed as a monorepo using NX, is dedicated to offering you a
 
 | Columna 1 | Columna 2 |
 |---|---|
-| Fila 1 | Fila 2 |
-| Fila 3 | Fila 4 |
-| Fila 3 | Fila 4 |
-| Fila 3 | Fila 4 |
+| Basic Testing | Brief explanation of basic unit testing, testing Presentational Components: Debug Method, Expected Properties and Snapshots |
+| Complex Components | React Testing Library FireEvent, userEvent and Testing interacting with APIs |
+| Reactoring | Updating test when dependencies are updated, Test from Enzyme and React Utils to React Testing Library |
+| Testing with useContext | Small app to test when we are using useContext from React |
 | Pizza API | Fila 6 |
 | Pizza API E2E | Fila 8 |
 | Pizza Shop | Fila 10 |
