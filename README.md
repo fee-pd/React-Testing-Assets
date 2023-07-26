@@ -1,5 +1,7 @@
 # ReactAssets
 
+This repository, designed as a monorepo using NX, is dedicated to offering you an extensive collection of testing assets that can make your React projects more robust, resilient, and reliable.
+
 | Columna 1 | Columna 2 |
 |---|---|
 | Fila 1 | Fila 2 |
