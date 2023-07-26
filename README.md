@@ -4,10 +4,12 @@
 |---|---|
 | Fila 1 | Fila 2 |
 | Fila 3 | Fila 4 |
-| Fila 5 | Fila 6 |
-| Fila 7 | Fila 8 |
-| Fila 9 | Fila 10 |
-| Fila 11 | Fila 12 |
+| Fila 3 | Fila 4 |
+| Fila 3 | Fila 4 |
+| Pizza API | Fila 6 |
+| Pizza API E2E | Fila 8 |
+| Pizza Shop | Fila 10 |
+| Pizza Shop E2E | Fila 12 |
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
