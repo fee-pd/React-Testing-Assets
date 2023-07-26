@@ -1,0 +1,10 @@
+{
+  "id": "7",
+  "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d48003cd-902c-420d-9f28-92d9dc5f73b4.jpg",
+  "title": "Margarita",
+  "types": [0, 1],
+  "sizes": [26, 30, 40],
+  "price": 450,
+  "category": 4,
+  "rating": 10
+}

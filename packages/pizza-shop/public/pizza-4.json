@@ -1,0 +1,10 @@
+{
+  "id": "4",
+  "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+  "title": "Cheeseburger Pizza",
+  "types": [0, 1],
+  "sizes": [26, 30, 40],
+  "price": 415,
+  "category": 3,
+  "rating": 8
+}

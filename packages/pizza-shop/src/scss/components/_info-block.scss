@@ -1,0 +1,30 @@
+@import "../variables";
+
+.infoBlock {
+    max-width: 600px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 60px 0 120px;
+
+    img{
+        max-width: 400px;
+        width: 100%;
+    }
+
+    h1{
+        margin-bottom: 15px;
+
+        @media screen and (max-width:450px) {
+            font-size: 40px;
+        }
+    }
+
+    p{
+        color:lighten($color: $black, $amount: 30%);
+        font-size: 17px;
+    }
+
+    @media screen and (max-width: 700px) {
+        padding: calc(10vh) 0 calc(23vh);
+    }
+}

@@ -1,0 +1,43 @@
+@import '../variables';
+
+.pagination{
+    ul{
+        display: flex;
+        align-items: center;
+
+        flex-wrap: wrap;
+
+        margin-bottom: 40px;
+
+        @media screen and (max-width:800px) {
+            max-width: 400px;
+            margin: 0 auto;
+        }
+
+        li{
+            border: 1px solid $orange;
+            width: 45px;
+            height: 45px;
+            border-radius: 50%;
+            color: $orange;
+            cursor: pointer;
+
+            margin-right: 12px;
+            margin-bottom: 15px;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            &:hover{
+                background-color: $orange;
+                color: white;
+            }
+        }
+
+        .active{
+            background-color: $orange;
+            color: white;
+        }
+    }
+}
