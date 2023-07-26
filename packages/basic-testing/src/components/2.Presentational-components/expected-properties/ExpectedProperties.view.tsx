@@ -1,4 +1,4 @@
-import { IEmployee } from 'src/mocks/employees';
+import { IEmployee } from "../../../mocks/employees";
 
 type IProps = {
   fakeEmployees: IEmployee[];

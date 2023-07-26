@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import './App.css';
-import BasicPageComponent from 'src/components/1.Basic-test/BasicPage';
-import ExpectedProperties from 'src/components/2.Presentational-components/expected-properties/ExpectedProperties.component';
+import ExpectedProperties from './components/2.Presentational-components/expected-properties/ExpectedProperties.component';
+import BasicPageComponent from './components/1.Basic-test/BasicPage';
 
 function App() {
   return (

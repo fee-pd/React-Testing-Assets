@@ -1,5 +1,5 @@
+import { render, screen } from '@testing-library/react';
 import DebugMethod from './DebugMethod.component';
-import { render, screen } from 'src/utils/test-utils';
 
 // Uncomment the debug method to see it in the console.
 

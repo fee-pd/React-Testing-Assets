@@ -1,5 +1,4 @@
-import { render, screen } from '../utils/test-utils';
-import { fireEvent } from '@testing-library/react';
+import { fireEvent, render, screen } from '@testing-library/react';
 import Button from './button';
 
 // Main subject to test (component, function, class, service, etc), please add only the name omit parentesis and arguments to avoid executions.

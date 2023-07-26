@@ -1,5 +1,6 @@
+import { render } from '@testing-library/react';
 import PresentationalComponent from './PresentationalComponent';
-import { render } from 'src/utils/test-utils';
+
 
 // Test Snapshot: Change the teext or tags in the component to watch the error response.
 it('displays the header and paragraph text', () => {

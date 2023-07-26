@@ -1,5 +1,6 @@
 import ExpectedProperties from './ExpectedProperties.component';
-import { render } from 'src/utils/test-utils';
+import { render } from '@testing-library/react';
+
 
 
 it('displays the heading', () => {

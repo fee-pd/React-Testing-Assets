@@ -83,7 +83,6 @@ test('Movie, given initial render, displays movie name and description', () => {
 - Finally, we assert that the names of the movies in the list are present in the document.
 
 ``` jsx
-
 test('MovieList, given initial render, displays list of movies', () => {
   const movieListProps = {
     movies: [
@@ -102,3 +101,4 @@ test('MovieList, given initial render, displays list of movies', () => {
   expect(screen.getByText('Movie 1')).toBeInTheDocument();
   expect(screen.getByText('Movie 2')).toBeInTheDocument();
 });
+```

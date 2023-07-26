@@ -1,4 +1,4 @@
-import { fakeEmployees } from 'src/mocks/employees';
+import { fakeEmployees } from '../../../mocks/employees';
 import ExpectedPropertiesView from './ExpectedProperties.view';
 
 const ExpectedProperties = () => {

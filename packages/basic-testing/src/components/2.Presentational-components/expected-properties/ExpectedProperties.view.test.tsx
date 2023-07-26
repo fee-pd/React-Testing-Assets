@@ -1,6 +1,6 @@
 import ExpectedPropertiesView from './ExpectedProperties.view';
-import { render, screen } from 'src/utils/test-utils';
-import { fakeEmployees } from 'src/mocks/employees';
+import { render, screen } from '@testing-library/react';
+import { fakeEmployees } from '../../../mocks/employees';
 
 it('renders with expected values', () => {
   render(<ExpectedPropertiesView fakeEmployees={fakeEmployees} />)
